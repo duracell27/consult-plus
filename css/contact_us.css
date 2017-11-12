@@ -1,0 +1,269 @@
+.bg-light {
+  background-color: transparent !important; }
+
+.navbar-light .navbar-nav .nav-link {
+  color: #e2e2e2;
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0 1rem; }
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: #ffac55 !important; }
+
+.nav-link.active {
+  color: #ffac55 !important; }
+
+.navbar-light .navbar-text {
+  color: #e2e2e2;
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: bold;
+  text-transform: uppercase; }
+
+.navbar-brand {
+  margin-right: 3rem; }
+
+.img1 {
+  padding-left: 100px; }
+
+.img2 {
+  padding-left: 15px; }
+
+header {
+  background-image: url("../img/header_image.jpg");
+  height: 430px;
+  background-position: center top;
+  background-size: cover; }
+
+.carousel-item img {
+  height: 840px;
+  width: 100%; }
+
+.text-main {
+  text-transform: uppercase;
+  display: block;
+  z-index: 17;
+  position: relative;
+  color: #fff;
+  margin-top: 160px; }
+  .text-main h3 {
+    font-size: 14px; }
+  .text-main h1 {
+    font-size: 48px;
+    margin: 0; }
+
+.second .contact-main {
+  margin-top: 90px;
+  margin-bottom: 55px; }
+  .second .contact-main iframe {
+    margin-top: 7px; }
+.second .contacts h2 {
+  margin-bottom: 45px;
+  font-size: 32px;
+  text-transform: uppercase;
+  color: #343a3b; }
+.second .contacts img {
+  float: left;
+  display: block;
+  padding-top: 3px;
+  padding-bottom: 12px;
+  padding-right: 25px; }
+.second .contacts h4 {
+  font-size: 15px;
+  line-height: 21px;
+  margin-bottom: 0;
+  text-transform: uppercase; }
+.second .contacts p {
+  overflow: hidden;
+  font-size: 16px;
+  line-height: 28px;
+  color: #838b8c;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 25px; }
+
+.third {
+  background-color: #e7eff1; }
+  .third h2 {
+    margin-top: 90px;
+    margin-bottom: 40px;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: #343a3b; }
+  .third .form-inputs input[type="text"] {
+    text-transform: uppercase;
+    width: 100%;
+    font-size: 13px;
+    line-height: 30px;
+    color: #343a3b !important;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #cddbde;
+    margin-bottom: 40px; }
+  .third .form-inputs select {
+    text-transform: uppercase;
+    width: 100%;
+    color: #666b6d !important;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #cddbde;
+    margin-top: 9px; }
+    .third .form-inputs select option {
+      font-size: 15px;
+      line-height: 30px; }
+  .third .form-sub textarea {
+    height: 185px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #cddbde;
+    width: 100%;
+    font-size: 13px;
+    line-height: 30px;
+    color: #7cddf7 !important;
+    text-transform: uppercase; }
+  .third .form-sub input[type="submit"] {
+    background-color: #16d428;
+    border: none;
+    border-radius: 22px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-bottom: 95px;
+    margin-left: 35px;
+    margin-bottom: 40px;
+    width: 140px;
+    height: 44px; }
+    .third .form-sub input[type="submit"]:hover {
+      transform: scale(1.1);
+      transition: 0.7s; }
+
+.sixth {
+  background-color: #03b6e7;
+  position: relative; }
+  .sixth h2 {
+    margin-top: 90px;
+    margin-bottom: 0;
+    font-size: 32px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff; }
+
+.qoutes {
+  position: absolute; }
+
+.qoutes-middle {
+  vertical-align: middle; }
+  .qoutes-middle img {
+    padding: 30px 6px; }
+
+.qoutes-foot {
+  color: #fff; }
+  .qoutes-foot p {
+    font-size: 15px;
+    padding: 0 50px;
+    line-height: 28px; }
+  .qoutes-foot hr {
+    width: 30px;
+    margin: 15px auto;
+    padding-bottom: 2px;
+    background-color: #FFF;
+    border: none; }
+  .qoutes-foot h3 {
+    font-size: 15px;
+    margin-top: 32px;
+    text-transform: uppercase; }
+  .qoutes-foot span {
+    font-size: 16px;
+    display: block;
+    padding-bottom: 90px; }
+
+.nineth {
+  background-color: #262829; }
+  .nineth .footer {
+    padding-top: 95px;
+    padding-bottom: 95px;
+    color: #838b8c; }
+    .nineth .footer h3 {
+      color: #e1e1e1;
+      font-size: 20px;
+      line-height: 33px; }
+    .nineth .footer img {
+      display: block;
+      margin-top: 30%; }
+  .nineth .lists {
+    text-transform: uppercase; }
+    .nineth .lists ul {
+      list-style: none;
+      margin: 0;
+      padding: 0; }
+      .nineth .lists ul li {
+        font-size: 13px;
+        line-height: 30px; }
+  .nineth .form {
+    position: relative; }
+    .nineth .form h3 {
+      text-transform: uppercase; }
+    .nineth .form p {
+      font-size: 15px;
+      line-height: 24px;
+      margin-bottom: 40px; }
+    .nineth .form input[type="submit"] {
+      position: absolute;
+      background-color: #16d428;
+      color: #fff;
+      text-transform: uppercase;
+      height: 52px;
+      width: 135px;
+      border-radius: 26px;
+      border: none;
+      right: 0;
+      font-weight: bold; }
+    .nineth .form input[type="text"] {
+      position: absolute;
+      background-color: #323334;
+      color: #5e5e5e;
+      text-transform: uppercase;
+      height: 52px;
+      width: 96%;
+      border-radius: 26px;
+      border: none;
+      font-weight: bold;
+      text-indent: 20px; }
+  .nineth hr {
+    border: none;
+    color: red;
+    background-color: #323334;
+    height: 2px;
+    margin: 0; }
+  .nineth .foot-end {
+    position: relative;
+    height: 92px;
+    color: #7c8384; }
+    .nineth .foot-end p {
+      padding-top: 20px;
+      margin-bottom: 0;
+      position: absolute;
+      left: 14px; }
+    .nineth .foot-end ul {
+      margin: 0;
+      padding: 0;
+      position: absolute;
+      right: 0;
+      text-transform: uppercase;
+      list-style: none; }
+      .nineth .foot-end ul li {
+        float: left;
+        margin: 20px 20px 47px 20px; }
+        .nineth .foot-end ul li:nth-child(1) {
+          color: #385da5; }
+        .nineth .foot-end ul li:nth-child(2) {
+          color: #00b5da; }
+        .nineth .foot-end ul li:nth-child(3) {
+          color: #d4c5a8; }
+        .nineth .foot-end ul li:nth-child(4) {
+          color: #1883bb; }
+        .nineth .foot-end ul li:nth-child(5) {
+          color: #e4463b; }
+
+/*# sourceMappingURL=contact_us.css.map */
